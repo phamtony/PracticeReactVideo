@@ -1,3 +1,3 @@
-# Youtube React app with Redux
+# Youtube React app
 
-Same youtube app with redux integrated
+Youtube app with youtube api and reactjs
